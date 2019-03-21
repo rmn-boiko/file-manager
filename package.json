@@ -1,0 +1,19 @@
+{
+  "name": "boss-games-solutions-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Boiko <roman.bv20@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "busboy": "^0.3.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
